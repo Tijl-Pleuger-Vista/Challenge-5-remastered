@@ -1,0 +1,6 @@
+This week was less productive because I am busy with 2 exams that are comming up next week
+I was able to do more research that was needed to design this product by searching online for similar products
+Pictures and links can be found in the documentation
+
+I started laying the base foundation by creating a github and initializing NextJs
+I wrote the use casses for the webapp

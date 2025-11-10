@@ -1,0 +1,15 @@
+JavaScript
+    Basic
+    Next.js / React
+
+C#
+Java
+SQL
+    SupaBase
+Firebase
+    AUTH
+    Database
+
+API
+Docker / Kubernetes
+Powershell

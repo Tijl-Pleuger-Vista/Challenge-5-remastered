@@ -1,0 +1,5 @@
+A page where each pokemon is visible that you registered
+A way to register a pokemon into your register
+admin: edit information about a pokemon
+Delete a pokemon from a user
+

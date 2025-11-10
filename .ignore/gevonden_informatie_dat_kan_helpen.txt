@@ -1,0 +1,27 @@
+Een wiki over pokemon
+https://pokemondb.net/pokedex/all
+
+een Api die pokemon responses geeft
+https://pokeapi.co/
+
+
+bestaande pokedex
+https://www.pokemon.com/us/pokedex
+
+Pokemon go (inspiratie)
+https://pokemongo.com/
+
+Authentication
+https://firebase.google.com/docs/auth
+
+Database
+https://supabase.com/docs
+
+NextJs because noone likes PHP
+https://nextjs.org/docs
+
+A good css library
+https://tailwindcss.com/
+
+a video that might help
+https://www.youtube.com/watch?v=56VjdqcdakQ

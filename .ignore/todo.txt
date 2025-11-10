@@ -1,0 +1,17 @@
+Pakket van Eisen
+Plan van aanpak
+
+FIGMA?
+Technisch ontwerp
+Functioneel ontwerp
+SD Documentatie
+https://headbodyscripts-team.monday.com/boards/5051911541
+
+BV.
+	Database
+	https://drawsql.app/teams/prototype/diagrams/copy-of-dimi
+
+Maak het product
+Test het product (use cases)
+
+Reflecteer

@@ -1,0 +1,4 @@
+Wij gaan gebruik maken van NextJs als framework
+We gebruiken Tailwind CSS als CSS library
+Als Authenticatie gebruiken we Firebase en JWT
+Supabase word onze Database

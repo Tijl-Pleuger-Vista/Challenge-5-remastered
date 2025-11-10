@@ -1,0 +1,56 @@
+
+Wat is Lean? Waar wordt dat voor gebruikt?
+
+
+Wat is CBL ook alweer? 
+Doen wij het wel goed met ons groepje?
+    Ja
+
+Wat is een Pokedex?
+    Een index waar alle pokemon informatie ge registreed staat
+
+Hoe ziet een Pokedex eruit?
+    een grid met fotos waar informatie van de pokemon onder de foto staat
+
+Hoe zou dat gemaakt zijn? 
+    Ligt aan hoe je het wilt maken. Dit kan met een website of een app. Als je een framework gebruikt kan je het voor bijden tegelijk maken
+
+Welke techniek zit er achter?
+    React
+
+Wat hebben we nodig om dit project te kunnen maken?
+    Kennis van Web dev
+    Kennis van Database
+    Kennis van Authentication
+    Kennis van pokemon
+    Kennis van 
+
+Wat weten we wel al?
+    Tijl heeft:
+        Kennis van Web dev
+        Kennis van Database
+        Kennis van Authentication
+        Kennis van pokemon   
+
+Wat weten we nog niet?
+
+
+Hoeveel Pokemon zijn er?
+    Het aantal Pokémon per generatie varieert, met Generatie I met 151, Generatie II met 100, Generatie III met 135, Generatie IV met 107, Generatie V met 156, Generatie VI met 72, Generatie VII met 88, Generatie VIII met 96 en Generatie IX met meer dan 100. 
+
+
+Waar kan ik info krijgen overPokemon?
+    Via de pokemon API of een pokemon website
+
+Wie in ons groepje weet wat en kent wat? Maak een overzichtje van de groepsleden en hun kennis en kunde.
+
+Welke websites kan ik raadplegen. Houd een lijstje bij van geraadpleegde websites.
+    zie bestand "gevonden_informatie_dat_kan_helpen.txt"
+
+Zijn er al concurrenten op demarkt?
+    PokemonGo
+
+Wat kunnen wij met ons groepje doen of maken waardoor we uniek zijn. Iets hebben wat anderen niet hebben.
+
+Moet het een website worden of een mobile app of een game of iets op TV, of iets anders? Welke mogelijkheden hebben we?
+    Webapp

@@ -1,0 +1,9 @@
+I started doing research about all the documentation that needed to be done since it has been pointed out to me I have been doing it wrong
+I found multiple documents that were from the school at a website from Vista
+I talked to people that have a job in Software development and they stated that if I completed all the documents given by this website I will have a 'over kill' amount of documentation that might not be relevant
+I will ofcourse still work with these documents instead of the ones I recieved from real Companies since Vista wants me to use their products
+I Started with gathering information that will be put in the documents and later into the Technical and Functional designs
+I am using Monday to document the timeline such as a Gantt chart and to create an overview of what has to be done in general terms
+I created a DrawSQL file that will but used to document the Database structure
+
+Next week I will plan on refining the must haves into the documetation so I can start creating the design with Figma
